@@ -2,14 +2,14 @@
                 <div class="container">
                     <div class="top-bar-left">
                         <ul class="list-inline">
-                            <li class="icon-user"><a href="login.html"><img src="assets/img/icon-1.png" alt=""/> <span>Login</span></a></li>
-                            <li class="icon-form"><a href="login.html"><img src="assets/img/icon-2.png" alt=""/> <span>Not a Member? <span class="colored">Sign Up</span></span></a></li>
+                            <li class="icon-user"><a href="login.php"><img src="assets/img/icon-1.png" alt=""/> <span>Login</span></a></li>
+                            <li class="icon-form"><a href="login.php"><img src="assets/img/icon-2.png" alt=""/> <span>Not a Member? <span class="colored">Sign Up</span></span></a></li>
                             <li><a href="mailto:support@yourdomain.com"><i class="fa fa-envelope"></i> <span>support@yourdomain.com</span></a></li>
                         </ul>
                     </div>
                     <div class="top-bar-right">
                         <ul class="list-inline">
-                            <li class="hidden-xs"><a href="about.html">About</a></li>
+                            <li class="hidden-xs"><a href="about.php">About</a></li>
                             <li class="hidden-xs"><a href="blog.html">Blog</a></li>                         
                             <li class="hidden-xs"><a href="accountinformation.html">My Account</a></li>
                             <li class="hidden-xs"><a href="contact.html">Contact</a></li>
